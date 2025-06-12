@@ -64,4 +64,4 @@ if in_data is not None:
 else:
     print("INFO: Tidak ada data input yang diterima.")
 
-# made with love by HarimauKicik
+# made with love to HarimauKicik
